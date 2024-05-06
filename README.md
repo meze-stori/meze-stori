@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang and architectures
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me you can email me to martin.abogado@storicard.com
-- 😄 Pronouns: Meze
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: My surname is a proffesion 😄
 
 <!---
